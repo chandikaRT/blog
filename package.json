@@ -1,0 +1,17 @@
+{
+  "name": "ssg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "highlight.js": "^11.8.0",
+    "marked": "^9.1.0"
+  }
+}
